@@ -1,5 +1,4 @@
 # 732A94 Advanced R Programming Computer lab 1
-# Advanced Programming in R - Assignment 3
 
 This is the 1st assignment of the course Advanced Programming in R at Linköping University in 2018.
 
