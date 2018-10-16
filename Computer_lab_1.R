@@ -1,5 +1,5 @@
 name <- "Ruben Munoz"
-liuid <-  "rubmu773"
+liuid <-  ""
 
 my_num_vector <- function() {
   return(c(log10(11), cos(pi / 5), exp(pi / 3), (1173 %% 7) / 19))
